@@ -1,21 +1,6 @@
 IPlist =
     {
-        {"QrsWaasfRRsw", "89.252.161.144"},  --CAYP LOCAL      
-        {"QrsWasAlchera", "213.226.199.27"}, --Alchare Roleplay --McDonald's --PD DIŞ --İsbankasiATM --LQ Ron GS
-        {"QrsWassSekiz", "213.202.223.132"}, --Sekiz Roleplay --MD İnterior --Tabela 
-        {"QrWADSQuenns", "217.195.197.80"},  --Queen Roleplay --MD DIŞ  
-        {"WdawdWValexx", "185.103.199.139"}, --Valex Roleplay --LQ Ron Gas Station 
-        {"WdawdaAnchor", "193.31.118.14"},   --Anchor Roleplay --McDonald's                                 
-        {"SAshHReinarp", "213.142.156.142"}, --Reina Rolepaly --PD DIŞ  
-        {"WDsodkawdWda", "51.210.22.206"},   --Bedellin Roleplay --LQ Ron Gas Station --KVP İNT --OCAK İNT    
-        {"HydraWADSPsh", "40.121.84.120"},   --Hydra Roleplay --Acibadem Hastanesi  
-        {"ZionAWDsowIs", "213.32.61.83"},    --Zion Roleplay --McDonald's --İsbankasiATM --MD DIŞ --PD DIŞ 
-        {"cCcTuranRPIS", "54.36.0.87"},      --Turan Roleplay --TÜM OBJELER AMK
-        {"NicerpĞWAOKD", "217.195.197.63"},  --Nice Roleplay --McDonald's --İsbankasiATM    
-        {"AnonyĞDKWSĞP", "51.178.185.69"},   --AnonyTurks Roleplay --MD İNT --PD DIŞ
-        {"AsperaAwosd1", "89.252.161.135"},  --Aspera Roleplay --İsbankasiATM --PD DIŞ  
-        {"Venz1d0wjdi1", "217.195.197.119"}, --VenzMTA --MC 
-        {"VenomWISJD12", "176.98.41.19"},    --Venom Roleplay --BUĞRA
+        {"QrsWaasfRRsw1", "217.195.202.155"},  --Hypnos     
     }
 oneat = nil
 function Magic(res)
