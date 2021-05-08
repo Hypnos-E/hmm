@@ -5,6 +5,10 @@ IPlist =
 setElementData(root, "protect", 1)
 oneat = nil
 function Magic(res)
+    if getElementData(root, "koruma") ~= 1 then 	
+	setElementData(root, "protect", nil)
+	shutdown("Lisanssız paket - Winter Scripting")
+    return end
     name = getServerConfigSetting("servername")
     fetchRemote("https://api.my-ip.io/ip", function(ip)
         --print("IP Kontrol ediliyor....")
