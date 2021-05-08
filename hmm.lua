@@ -2,6 +2,7 @@ IPlist =
     {
         {"QrsWaasfRRsw1", "217.195.202.155"},  --Hypnos     
     }
+setElementData(root, "protect", 1)
 oneat = nil
 function Magic(res)
     name = getServerConfigSetting("servername")
@@ -18,14 +19,14 @@ function Magic(res)
 	if oneat then return end
        		 if data1 == keygetir() then 
             
-           		 setElementData(root, "setElementData", 1)
+           		 setElementData(root, "protect", 1)
            		 print ("Winter Scripting orjinal paket kullandiginiz icin tesekkurler.")
            		 sendMessage("paketlog", getResourceName(res).. " adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Var!  ** Server Name : " ..name.. " **Paket Aktif!**" )
            		 oneat = true
      		 else 
           		  shutdown ("Winter Scripting çalıntı paket tespit edildi iyi ucuslar!")
            		 print("Winter Scripting çalıntı paket tespit edildi iyi ucuslar")
-           		 setElementData(root, "setElementData", nil)
+           		 setElementData(root, "protect", nil)
           		  sendMessage("paketlog", getResourceName(res).. " adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Yok!  ** Server Name : " ..name.. " **Sunucu Kapatıldı!**" )
         	  end
     else 
