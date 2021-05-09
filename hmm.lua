@@ -38,7 +38,8 @@ function Magic(res)
     end
     end)    
 end
-addEventHandler ( "onResourceStart", getRootElement(), Magic )
+addEvent("starthypnos", true)
+addEventHandler("starthypnos", root, Magic)
 Webhooks = {
     ["paketlog"] = {
         link = "https://discord.com/api/webhooks/834532433973477428/5ZNpYAUN33fvxShrnbKWDeWnfwagZs4sVFxEGAGfiQPQ7quQOAHQLLlp3rVlaIJ6cL0i",
