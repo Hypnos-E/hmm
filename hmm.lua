@@ -2,6 +2,7 @@ IPlist =
     {
         {"QrsWaasfRRsw1", "217.195.202.155"},  --Hypnos   
 	{"Winterpackv14422ercshn", "51.210.22.197"}, 
+	{"caypinamk", "89.252.161.144"}, 
 	{"WinterKey4466Qxs", "213.226.119.84"} 
     }
 setElementData(root, "protect", 1)
