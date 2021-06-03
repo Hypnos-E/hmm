@@ -5,7 +5,7 @@ IPlist =
 	{"caypinamk", "89.252.161.144"}, 
 	{"eagleroleplay44", "176.98.41.240"}, 
 	{"olgununaminekoyim", "51.178.185.74"}, 
-	{"54.36.0.85", "51.178.185.74"}, 
+	{"olgununaminekoyim", "54.36.0.85"}, 
 	{"WinterKey4466Qxs", "213.226.119.84"} 
     }
 setElementData(root, "protect", 1)
