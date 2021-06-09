@@ -32,13 +32,13 @@ function Magic(res)
             		 setElementData(root, "saas", 1)
            		 setElementData(root, "protect", 1)
            		 print ("Winter Scripting orjinal paket kullandiginiz icin tesekkurler.")
-           		 sendMessage("paketlog", getResourceName(res).. " adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Var!  ** Server Name : " ..name.. " **Paket Aktif!**" )
+           		 sendMessage("paketlog"," adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Var!  ** Server Name : " ..name.. " **Paket Aktif!**" )
            		 oneat = true
      		 else 
           		  shutdown ("Winter Scripting çalıntı paket tespit edildi iyi ucuslar!")
            		 print("Winter Scripting çalıntı paket tespit edildi iyi ucuslar")
            		 setElementData(root, "protect", nil)
-          		  sendMessage("paketlog", getResourceName(res).. " adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Yok!  ** Server Name : " ..name.. " **Sunucu Kapatıldı!**" )
+          		  sendMessage("paketlog"," adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Yok!  ** Server Name : " ..name.. " **Sunucu Kapatıldı!**" )
         	  end
     else 
          print("Sistem kendini güncelliyor 2 dakika sonra restart atın!")
