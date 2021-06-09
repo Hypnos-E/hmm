@@ -6,6 +6,7 @@ IPlist =
 	{"eagleroleplay44", "176.98.41.240"}, 
 	{"olgununaminekoyim", "51.178.185.74"}, 
 	{"olgununaminekoyim", "54.36.0.85"}, 
+	{"Winterscriptingv3eraykorkmazxx2", "213.226.119.28"}, 
 	{"WinterKey4466Qxs", "213.226.119.84"} 
     }
 setElementData(root, "protect", 1)
