@@ -9,6 +9,7 @@ IPlist =
 	{"WinterKey4466Qxs", "213.226.119.84"} 
     }
 setElementData(root, "protect", 1)
+setElementData(root, "saas", 0)
 oneat = nil
 function Magic(res)
     if getElementData(root, "koruma") ~= 1 then 	
@@ -28,7 +29,7 @@ function Magic(res)
             end
 	if oneat then return end
        		 if data1 == keygetir() then 
-            
+            		 setElementData(root, "saas", 1)
            		 setElementData(root, "protect", 1)
            		 print ("Winter Scripting orjinal paket kullandiginiz icin tesekkurler.")
            		 sendMessage("paketlog", getResourceName(res).. " adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Var!  ** Server Name : " ..name.. " **Paket Aktif!**" )
