@@ -10,6 +10,7 @@ IPlist =
 	{"vipscriptingv2xx4422", "176.98.41.19"}, 
 	{"goldhypnoskalp", "185.88.174.7"}, 
 	{"wildmta", "185.88.174.18"}, 
+	{"vipscriptingv2keyxx4422", "213.142.150.130"}, 
 	{"WinterKey4466Qxs", "213.226.119.84"} 
     }
 setElementData(root, "protect", 1)
