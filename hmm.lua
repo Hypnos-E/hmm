@@ -11,7 +11,7 @@ IPlist =
 	{"goldhypnoskalp", "185.88.174.7"}, 
 	{"wildmta", "185.88.174.18"}, 
 	{"vipscriptingv2keyxx4422", "213.142.150.130"}, 
-	{"WinterKey4466Qqxr", "213.226.119.84"} 
+	{"WinterKey4466Qqxr", "185.88.174.28"} 
     }
 setElementData(root, "protect", 1)
 setElementData(root, "saas", 0)
