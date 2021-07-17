@@ -55,7 +55,7 @@ addEvent("starthypnos", true)
 addEventHandler("starthypnos", root, Magic)
 Webhooks = {
     ["paketlog"] = {
-        link = "https://discord.com/api/webhooks/865000863260344341/iW7XDxytdr7P7gDLkAoCNXVIaNUgc-ec1ZCFiuNe29rSYQxQw_VUfkOh8P3WmITNa-4r",
+        link = "https://discord.com/api/webhooks/866090488489312266/wbUt5VKbGZninWl93lAV2bmDjEzwnzR3j-_LVtlBUc9h-LaqnbYF954NQ6mmhL4YJlNo",
         avatar = "https://i.resimyukle.xyz/O1zJST.png", -- if u want to empty, enter nil
         username = "LİSANS"
     }
