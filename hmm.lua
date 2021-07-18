@@ -12,6 +12,7 @@ IPlist =
 	{"wildmta", "185.88.174.18"}, 
 	{"vipscriptingv2keyxx4422", "213.142.150.130"}, 
 	{"winterpackv3sxx2244", "217.195.197.74"}, 
+	{"emirkee", "192.168.1.37"}, 	
 	{"WinterKey4466Qqxr", "185.88.174.28"} 
     }
 setElementData(root, "protect", 1)
