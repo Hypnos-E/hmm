@@ -13,6 +13,7 @@ IPlist =
 	{"vipscriptingv2keyxx4422", "213.142.150.130"}, 
 	{"winterpackv3sxx2244", "217.195.197.74"}, 
 	{"emirkee", "192.168.1.37"}, 	
+	{"winterv3poseidonxx44", "176.98.41.21"}, 	
 	{"WinterKey4466Qqxr", "185.88.174.28"} 
     }
 setElementData(root, "protect", 1)
