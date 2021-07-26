@@ -15,7 +15,7 @@ IPlist =
 	{"emirkee", "192.168.1.37"}, 	
 	{"winterv3poseidonxx44", "176.98.41.21"}, 
 	{"vipscriptingpackv1xx44", "217.195.197.116"}, 
-	{"vipscriptingpackv1xz2244", "2217.195.202.219"}, 
+	{"vipscriptingpackv1xz2244", "217.195.202.219"}, 
 	{"winterniceeskiv2", "217.195.197.22"}, 
 	{"WinterKey4466Qqxr", "185.88.174.28"} 
     }
