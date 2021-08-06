@@ -6,7 +6,7 @@ IPlist =
 	{"eagleroleplay444", "176.98.41.240"}, 
 	{"olgununaminekoyim", "51.178.185.74"}, 
 	{"olgununaminekoyim", "54.36.0.85"}, 
-	{"Winterscriptingv3eraykorkmazxx2", "213.226.119.28"}, 
+	{"Winterscriptingv3eraykorkmazxx2", "217.195.202.12"}, 
 	{"vipscriptingv2xx4422", "176.98.41.19"}, 
 	{"goldhypnoskalp", "185.88.174.7"}, 
 	{"wildmta", "185.88.174.18"}, 
