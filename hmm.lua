@@ -9,7 +9,7 @@ IPlist =
 	{"Winterscriptingv3eraykorkmazxx2", "217.195.202.12"}, 
 	{"vipscriptingv2xx4422", "176.98.41.19"}, 
 	{"goldhypnoskalp", "185.88.174.7"}, 
-	{"wildmta", "213.226.119.26"}, 
+	{"orospuolgun", "213.226.119.80"}, 
 	{"vipscriptingv2keyxx4422", "45.155.124.165"}, 
 	{"winterpackv3sxx2244", "217.195.197.74"}, 
 	{"emirkee", "192.168.1.37"}, 	
