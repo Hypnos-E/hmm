@@ -19,6 +19,8 @@ IPlist =
 	{"winterniceeskiv2", "217.195.197.22"}, 
 	{"winterv1halxx44", "217.195.197.19"}, 
 	{"winterv1halxx45", "213.142.156.68"}, 
+	{"luciferv2x44221", "213.226.119.91"}, 
+	{"luciferv2x44221", "213.226.119.54"}, 
 	{"WinterKey4466Qqxr", "45.131.1.61"} 
     }
 setElementData(root, "protect", 1)
