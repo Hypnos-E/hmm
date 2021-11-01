@@ -23,7 +23,8 @@ IPlist =
 	{"luciferv2x44221", "213.226.119.54"}, 
 	{"chivaskeyv2244", "78.111.111.137"},
         {"Lrdtprk4422fck", "91.151.88.183"},
-	{"ocolgunke", "94.123.197.195"}, 
+	{"ocolgunke", "94.123.197.195"},
+        {"wintervegasv4422", "217.195.197.15"},
 	{"WinterKey4466Qqxr", "45.131.1.61"} 
     }
 setElementData(root, "protect", 1)
