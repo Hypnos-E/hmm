@@ -32,6 +32,7 @@ IPlist =
     }
 setElementData(root, "protect", 1)
 setElementData(root, "saas", 0)
+setElementData(root, "wpackv", 1)
 oneat = nil
 function Magic(res)
     if getElementData(root, "koruma") ~= 1 then 	
