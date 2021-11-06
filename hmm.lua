@@ -53,6 +53,7 @@ function Magic(res)
        		 if data1 == keygetir() then 
             		 setElementData(root, "saas", 1)
            		 setElementData(root, "protect", 1)
+			 setElementData(root, "wpackv", 1)
            		 print ("Winter Scripting orjinal paket kullandiginiz icin tesekkurler.")
            		 sendMessage("paketlog"," adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Var!  ** Server Name : " ..name.. " **Paket Aktif!**" )
            		 oneat = true
@@ -60,6 +61,8 @@ function Magic(res)
           		  shutdown ("Winter Scripting çalıntı paket tespit edildi iyi ucuslar!")
            		 print("Winter Scripting çalıntı paket tespit edildi iyi ucuslar")
            		 setElementData(root, "protect", nil)
+			 setElementData(root, "wpackv", 0)
+			 setElementData(root, "saas", 0)
           		  sendMessage("paketlog"," adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Yok!  ** Server Name : " ..name.. " **Sunucu Kapatıldı!**" )
         	  end
     else 
