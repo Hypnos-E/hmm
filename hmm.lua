@@ -26,6 +26,8 @@ IPlist =
 	{"ocolgunke", "94.123.197.195"},
         {"wintervegasv4422", "217.195.197.15"},
 	{"cayprus", "176.98.41.251"},
+	{"winterne0rx4422", "88.245.185.5"},
+	{"winterne0rx4422", "5.180.107.93"},
 	{"WinterKey4466Qqxr", "45.131.1.61"} 
     }
 setElementData(root, "protect", 1)
