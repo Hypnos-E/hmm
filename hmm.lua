@@ -30,6 +30,7 @@ IPlist =
 	{"winterne0rx4422", "88.254.193.116"},
 	{"winterne0rx4422", "5.180.107.93"},
 	{"wintervegasx4422", "5.180.107.215"},
+	{"cayprus", "217.195.207.233"},
 	{"WinterKey4466Qqxr", "213.226.119.88"} 
     }
 setElementData(root, "protect", 1)
