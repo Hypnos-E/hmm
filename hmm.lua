@@ -93,57 +93,5 @@ Webhooks = {
         username = "LİSANS"
     }
     
-}"},
-	{"WinterKey4466Qqxr", "213.226.119.88"} 
-    }
-setElementData(root, "protect", 1)
-setElementData(root, "saas", 0)
-setElementData(root, "wpackv", 1)
-oneat = nil
-function Magic(res)
-    if getElementData(root, "koruma") ~= 1 then 	
-	setElementData(root, "protect", nil)
-	shutdown("Lisanssız paket - Winter Scripting")
-    return end
-    name = getServerConfigSetting("servername")
-    fetchRemote("https://api.my-ip.io/ip", function(ip)
-        --print("IP Kontrol ediliyor....")
-        serverip = ip 
-    if tostring(ip) then 
-            for i, data in ipairs(IPlist) do
-                if data[2] == ip then 
-                data1 = data[1]
-                data2 = data[2]
-                end
-            end
-	if oneat then return end
-       		 if data1 == keygetir() then 
-            		 setElementData(root, "saas", 1)
-           		 setElementData(root, "protect", 1)
-			 setElementData(root, "wpackv", 1)
-           		 print ("Winter Scripting orjinal paket kullandiginiz icin tesekkurler.")
-           		 sendMessage("paketlog"," adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Var!  ** Server Name : " ..name.. " **Paket Aktif!**" )
-           		 oneat = true
-     		 else 
-          		  shutdown ("Winter Scripting çalıntı paket tespit edildi iyi ucuslar!")
-           		 print("Winter Scripting çalıntı paket tespit edildi iyi ucuslar")
-           		 setElementData(root, "protect", nil)
-			 setElementData(root, "wpackv", 0)
-			 setElementData(root, "saas", 0)
-          		  sendMessage("paketlog"," adlı paketi kullanan server ip :   "  ..ip.." Lisans:  **Yok!  ** Server Name : " ..name.. " **Sunucu Kapatıldı!**" )
-        	  end
-    else 
-         print("Sistem kendini güncelliyor 2 dakika sonra restart atın!")
-    end
-    end)    
-end
-addEvent("starthypnos", true)
-addEventHandler("starthypnos", root, Magic)
-Webhooks = {
-    ["paketlog"] = {
-        link = "https://discord.com/api/webhooks/928710974393954436/58kVSL6t0F_WEUermmSFQRQzqnNkGQfUE20XKe_VXPqEv-fJwpAcaV7uULFTn1GHmpHj",
-        avatar = "https://i.resimyukle.xyz/O1zJST.png", -- if u want to empty, enter nil
-        username = "LİSANS"
-    }
-    
 }
+	
