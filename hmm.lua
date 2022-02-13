@@ -41,6 +41,7 @@ IPlist =
 	{"ajsdgıy2t137dashj", "213.226.119.8"},
 	{"forsetkeywinter03129", "45.147.45.23"},
 	{"hypnosneormerciakeyx2193687", "193.164.7.184"},
+	{"staylofftirresistiblexx44", "213.226.119.4"},
 	{"WinterKey4466Qqxr", "213.226.119.88"} 
     }
 setElementData(root, "protect", 1)
