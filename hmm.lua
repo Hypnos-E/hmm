@@ -44,6 +44,7 @@ IPlist =
 	{"staylofftirresistiblexx44", "213.226.119.90"},
 	{"luciferv2x44221", "213.226.119.41"},
 	{"WinterKey4466Qqxrf", "217.195.197.196"},
+	{"WinterKey4449Qqxrfx", "78.135.111.119"},
 	{"WinterKey4466Qqxr", "213.226.119.88"} 
     }
 setElementData(root, "protect", 1)
