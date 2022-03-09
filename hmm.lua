@@ -23,7 +23,7 @@ IPlist =
 	{"winterv1halxx44", "217.195.197.19"}, 
 	{"winterv1halxx45", "213.142.156.68"}, 
 	{"luciferv2x44221", "213.226.119.91"}, 
-	{"luciferv2x44221", "213.226.119.54"}, 
+	{"luciferv2x44221", "185.148.242.103"}, 
 	{"luciferv2x44221", "45.131.3.65"}, 
 	{"chivaskeyv2244", "78.111.111.137"},
 	{"Lrdtprk4422fck", "5.180.107.214"},
@@ -42,7 +42,7 @@ IPlist =
 	{"forsetkeywinter03129", "45.147.45.23"},
 	{"hypnosneormerciakeyx2193687", "193.164.7.184"},
 	{"staylofftirresistiblexx44", "213.226.119.90"},
-	{"luciferv2x44221", "213.226.119.41"},
+	{"luciferv2x44221", "185.148.242.104"},
 	{"WinterKey4466Qqxrf", "217.195.197.196"},
 	{"WinterKey4449Qqxrfx", "78.135.111.119"},
 	{"WinterKey4466Qqxr", "213.226.119.88"} 
