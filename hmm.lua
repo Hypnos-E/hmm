@@ -12,7 +12,7 @@ IPlist =
 	{"orospuolgun", "185.148.242.98"}, 
 	{"orospuolgun", "84.54.13.78"},
 	{"orospuolgun", "213.226.119.40"}, 
-	{"orospuolgun", "45.131.3.156"}, 
+	{"orospuolgun", "213.238.166.99"}, 
 	{"vipscriptingv2keyxx4422", "45.155.124.165"}, 
 	{"winterpackv3sxx2244", "217.195.197.74"}, 
 	{"emirkee", "192.168.1.37"}, 	
