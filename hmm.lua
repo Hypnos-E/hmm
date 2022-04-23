@@ -41,7 +41,7 @@ IPlist =
 	{"ajsdgıy2t137dashj", "213.226.119.8"},
 	{"forsetkeywinter03129", "45.147.45.23"},
 	{"hypnosneormerciakeyx2193687", "193.164.7.184"},
-	{"staylofftirresistiblexx44", "185.148.242.92"},
+	{"staylofftirresistiblexx44", "146.19.57.27"},
 	{"luciferv2x44221", "185.148.242.104"},
 	{"WinterKey4466Qqxrf", "217.195.197.196"},
 	{"WinterKey4449Qqxrfx", "78.135.111.119"},
