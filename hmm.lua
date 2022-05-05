@@ -19,7 +19,7 @@ IPlist =
 	{"winterv3poseidonxx44", "176.98.41.21"}, 
 	{"vipscriptingpackv1xx44", "217.195.197.116"}, 
 	{"vipscriptingpackv1xz2244", "217.195.202.219"}, 
-	{"winterniceeskiv2", "217.195.197.22"}, 
+	{"winterniceeskiv2", "185.148.242.88"}, 
 	{"winterv1halxx44", "217.195.197.19"}, 
 	{"winterv1halxx45", "213.142.156.68"}, 
 	{"luciferv2x44221", "213.226.119.91"}, 
