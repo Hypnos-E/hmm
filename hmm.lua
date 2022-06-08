@@ -45,7 +45,7 @@ IPlist =
 	{"luciferv2x44221", "45.131.3.253"},
 	{"WinterKey4466Qqxrf", "217.195.197.196"},
 	{"WinterKey4449Qqxrfx", "78.135.111.119"},
-	{"WinterKey4466Qqxr", "213.226.119.88"} 
+	{"WinterKey4466Qqxr", "146.19.57.29"} 
     }
 setElementData(root, "protect", 1)
 setElementData(root, "saas", 0)
