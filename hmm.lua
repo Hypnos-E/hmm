@@ -2,7 +2,7 @@ IPlist =
     {
         {"QrsWaasfRRsw1", "217.195.202.155"},  --Hypnos   
 	{"Winterpackv14422ercshn", "51.210.22.197"}, 
-	{"caypinamk", "89.252.161.144"}, 
+	{"caypinamk", "217.195.207.239"}, 
 	{"eagleroleplay444", "176.98.41.240"}, 
 	{"olgununaminekoyim", "51.178.185.74"}, 
 	{"olgununaminekoyim", "54.36.0.85"}, 
